@@ -1,3 +1,3 @@
-**Graph** visualisation 
-**Qt** project
-structures lab var 22
+**Graph** visualisation<br>
+**Qt** project<br>
+structures lab var 22<br>
