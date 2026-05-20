@@ -1,0 +1,11 @@
+*.pro.user
+*.pro.user.*
+
+build-*/
+
+*.o
+*.obj
+*.moc
+*.exe
+*.dll
+
