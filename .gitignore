@@ -1,7 +1,9 @@
 *.pro.user
 *.pro.user.*
 
+build/
 build-*/
+.qtc_clangd/
 
 *.o
 *.obj
